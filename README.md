@@ -2,7 +2,9 @@
 
 *A Next-Generation Chess Experience Powered by Nebius AI*
 
-![Chess Demo](https://via.placeholder.com/800x400.png?text=AI+Chess+In+Action) [// Add actual screenshots later]
+![لقطة شاشة 2025-03-08 182231](https://github.com/user-attachments/assets/904fc0fb-7b92-48c0-9491-f68ab63e19e0)
+![لقطة شاشة 2025-03-08 182331](https://github.com/user-attachments/assets/96f5681f-ab5e-4694-8cd5-bf065475a982)
+
 
 ## 🚀 Features
 - **Smart AI Opponent** powered by Nebius LLM (Meta-Llama-3.1-8B-Instruct)
